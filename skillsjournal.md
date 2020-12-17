@@ -7,3 +7,5 @@
 * Bootstrap
 * Bash
 * Python
+* Zabbix
+
